@@ -26,7 +26,7 @@ li > a {
   display: inline-block;
   font-size: 40px;
   letter-spacing: 20px;
-  color: rgba(39, 111, 191, 1);
+  color: rgba(20, 121, 20, 0.644);
 }
 
 li > a:hover {
@@ -65,7 +65,7 @@ h2 {
 70% {
     transform: rotate(0deg);
     left: 500px;
-    background: #1ec7e6;
+    background: #11d8ad9c;
 }
 100% {
     transform: rotate(-360deg);
@@ -78,7 +78,7 @@ h2 {
   background: black;
   border: 1px solid white;
   border-radius: 4px;
-  color: white;
+  color: rgb(35, 119, 134);
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -106,7 +106,7 @@ h2 {
 }
 
 #btn-work {
-  background-color: rgba(39, 111, 191, 1);
+  background-color: rgb(26, 25, 25);
   border: 1px solid white;
   border-radius: 4px;
   color: white;
@@ -124,7 +124,7 @@ h2 {
 }
 
 #btn-fun {
-  background-color: rgba(255, 177, 0, 1);
+  background-color: rgb(138, 212, 123);
   border: 1px solid white;
   border-radius: 4px;
   color: white;
@@ -137,7 +137,7 @@ h2 {
 
 #btn-fun:hover {
   background: white;
-  color: rgba(255, 177, 0, 1);
+  color: rgba(30, 255, 0, 0.445);
   transition: 0.2s;
 }
 
@@ -146,7 +146,7 @@ h2 {
 }
 
 #work:hover {
-  background: rgba(39, 111, 191, 1);
+  background: rgb(135, 182, 25);
   color: white;
   transition: 0.6s;
 }
@@ -159,11 +159,11 @@ h2 {
 }
 
 #fun {
-  background: rgba(255, 177, 0, 0.1);
+  background: #94c7511a;
 }
 
 #fun:hover {
-  background: rgba(255, 177, 0, 1);
+  background: rgb(206, 202, 192);
   color: white;
   transition: 0.6s;
 }
@@ -179,7 +179,7 @@ h2 {
   text-align: center;
   width: 60%;
   margin: 0 auto;
-  background: white;                         /* White background */
+  background: rgb(104, 140, 168);                         /* White background */
   padding: 30px;                             /* Internal space */
   border-radius: 4px;                        /* Small radius */
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
