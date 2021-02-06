@@ -65,7 +65,7 @@ h2 {
 70% {
     transform: rotate(0deg);
     left: 500px;
-    background: #11d8ad9c;
+    background: #e5e9eb9c;
 }
 100% {
     transform: rotate(-360deg);
@@ -179,7 +179,7 @@ h2 {
   text-align: center;
   width: 60%;
   margin: 0 auto;
-  background: rgb(104, 140, 168);                         /* White background */
+  background: rgb(234, 235, 236);                         /* White background */
   padding: 30px;                             /* Internal space */
   border-radius: 4px;                        /* Small radius */
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
