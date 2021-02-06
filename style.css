@@ -26,11 +26,11 @@ li > a {
   display: inline-block;
   font-size: 40px;
   letter-spacing: 20px;
-  color: rgba(20, 121, 20, 0.644);
+  color: rgba(173, 187, 173, 0.644);
 }
 
 li > a:hover {
-  color: black;
+  color: rgb(105, 100, 100);
 }
 
 h2 {
@@ -75,7 +75,7 @@ h2 {
 }
 
 #pointless-btn {
-  background: black;
+  background: rgb(192, 200, 207);
   border: 1px solid white;
   border-radius: 4px;
   color: rgb(35, 119, 134);
