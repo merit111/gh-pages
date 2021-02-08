@@ -98,16 +98,16 @@ h2 {
 }
 
 #pointless-btn:hover {
-  background: white
+  background: rgb(119, 194, 85)
 }
 
 #pointless-btn:focus {
-  outline-color: white
+  outline-color: rgb(19, 18, 18)
 }
 
 #btn-work {
   background-color: rgb(26, 25, 25);
-  border: 1px solid white;
+  border: 1px solid rgb(26, 1, 1);
   border-radius: 4px;
   color: white;
   padding: 15px 32px;
@@ -119,12 +119,12 @@ h2 {
 
 #btn-work:hover {
   background: white;
-  color: rgba(39, 111, 191, 1);
+  color: rgb(205, 214, 223);
   transition: 0.2s;
 }
 
 #btn-fun {
-  background-color: rgb(138, 212, 123);
+  background-color: rgb(22, 10, 10);
   border: 1px solid white;
   border-radius: 4px;
   color: white;
