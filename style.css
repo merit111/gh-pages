@@ -163,8 +163,8 @@ h2 {
 }
 
 #fun:hover {
-  background: rgb(206, 202, 192);
-  color: white;
+  background: rgb(207, 152, 13);
+  color: rgb(84, 230, 162);
   transition: 0.6s;
 }
 
@@ -179,7 +179,7 @@ h2 {
   text-align: center;
   width: 60%;
   margin: 0 auto;
-  background: rgb(234, 235, 236);                         /* White background */
+  background: rgb(9, 94, 179);                         /* White background */
   padding: 30px;                             /* Internal space */
   border-radius: 4px;                        /* Small radius */
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
